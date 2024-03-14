@@ -21,7 +21,7 @@ pip install -r requirements
 
 4. Run the script
 ```bash
-python xlsx_to_markdown_table.py $PATH_TO_CSV_FILE $OUTPUT_DIR
+python main.py $PATH_TO_CSV_FILE $OUTPUT_DIR
 ```
 
 ### License
