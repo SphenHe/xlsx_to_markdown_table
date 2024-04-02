@@ -31,7 +31,7 @@ def main():
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        print('Usage: python mixed.py <PATH_TO_CSV_FILE> <OUTPUT_DIR>')
+        print('Usage: python mixed.py <PATH_TO_XLSX_FILE> <OUTPUT_DIR>')
         sys.exit(1)
     csv_file = sys.argv[1]
     output_dir = sys.argv[2]
