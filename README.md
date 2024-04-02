@@ -21,8 +21,8 @@ pip install -r requirements
 
 4. Run the script
 ```bash
-python main.py $PATH_TO_CSV_FILE $OUTPUT_DIR
+python main.py $PATH_TO_XLSX_FILE $OUTPUT_DIR
 ```
 
 ### License
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
