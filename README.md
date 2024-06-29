@@ -16,7 +16,7 @@ cd xlsx_to_markdown_table
 
 3. Install the required packages
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 4. Run the script
